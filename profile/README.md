@@ -1,4 +1,4 @@
-## Hi! This is the ElectrGrid Capstone Project (MEDS 2026) Landing Page 👋
+## Hi! This is the ElectrGrid Capstone Project (MEDS 2026) Landing Page ⚡️
 
 **Project summary**
 
