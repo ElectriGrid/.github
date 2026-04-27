@@ -27,7 +27,8 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 - [Grace Wu](https://bren.ucsb.edu/people/grace-wu)  
 
 ### Client
-- [Yohan Min](https://es.ucsb.edu/people/yohan-min)  
+- [Yohan Min](https://es.ucsb.edu/people/yohan-min)
+
 
 ## Data
 - [Microsoft/Global Building Atlas Building Footprints](https://sat-io.earthengine.app/view/gba) – Contains modeled building footprints geometries and heights for all buildings in the world.
