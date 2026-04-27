@@ -1,4 +1,5 @@
-# Hi! This is the ElectrGrid Capstone Project (MEDS 2026) Landing Page ⚡️
+# Hi! This is the ElectrGrid Capstone Project - MEDS 2026 ⚡️
+## Power lines and people: Mapping how distribution grid constraints shape resilient and equitable energy transition
 
 ## Project summary
 
