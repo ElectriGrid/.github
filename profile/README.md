@@ -1,5 +1,6 @@
 # Hi! This is the ElectriGrid Capstone Project - MEDS 2026 ⚡️ 
 
+## Official project title
 **[Power lines and people: Mapping how distribution grid constraints shape resilient and equitable energy transition](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and)**
 
 ## Project summary
