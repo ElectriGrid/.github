@@ -11,10 +11,10 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 
 | Repositories    | Contents |
 | ----------- | ----------- |
-| first-exploration | Repository with exploratory code  |
-| tidy-census| Repository with the code to acccess census ACS data |
-| hosting-capacity-calculations | Repository with the code to calculate hosting capacity     |
-| building-unit-regression | Repository with the code to calculate the units for zillow data    |
+| first-exploration | Exploratory code  |
+| tidy-census| Acccess census ACS data |
+| building-unit-regression | Calculate the housing units for zillow data |
+| hosting-capacity-calculations |Calculate hosting capacity     |
 
 
 ## People
