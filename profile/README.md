@@ -45,3 +45,5 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 
 ## More Resources
 The analysis is part of a capstone project for the [Master of Environmental Data Science program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science & Management. More information on the project can be found on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
+
+For information on our Python environment, see the appendix of the Technical Documentation, which can be found on the Bren website (linked above).
