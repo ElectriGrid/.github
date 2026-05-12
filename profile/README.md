@@ -11,10 +11,10 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 
 | Repositories    | Contents |
 | ----------- | ----------- |
-| [first-exploration](https://github.com/ElectriGrid/first-exploration) | Exploratory code  |
 | [tidy-census](https://github.com/ElectriGrid/tidycensus)| Acccess census ACS data |
 | [building-unit-regression](https://github.com/ElectriGrid/building-unit-regression) | Calculate the housing units for zillow data |
 | [hosting-capacity-calculations](https://github.com/ElectriGrid/hosting-capacity-calculation) |Calculate hosting capacity |
+| [statistics](https://github.com/ElectriGrid/statistics) | Statistical analysis of disadvantaged communities and hosting capacity  |
 
 
 ## People
@@ -35,13 +35,17 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 - California Projected Load Data Provider: [Sanjay Poudel](https://bren.ucsb.edu/people/sanjay-poudel)
 
 ## Data
-- [Microsoft/Global Building Atlas Building Footprints](https://sat-io.earthengine.app/view/gba) – Contains modeled building footprints geometries and heights for all buildings in the world.
-- [California parcel geometries](https://egis-lacounty.hub.arcgis.com/documents/baaf8251bfb94d3984fb58cb5fd93258/about) – Residential parcel geometries for 51 out of 58 California countries.
-- Zillow, or tax assessor data, provided directly by the client (not currently public). – Contains geographic points of residential buildings in California, and information on whether they are single- or multi- family, home value, etc. (Lots of missing data).
-- [PG&E ICA data dashboard](https://grip.pge.com/)
-- [SDGE ICA data dashboard](https://interconnectionmapsdge.extweb.sempra.com/)
-- [SCE ICA data dashboard](https://drpep.sce.com/drpep/)
-- [tidycensus package](https://cran.r-project.org/web/packages/tidycensus/index.html) – American Census Survey data for sociodemographic variables.
+
+| Name and Source | Description |
+| ----------- | ----------- |
+| [Microsoft/Global Building Atlas Building Footprints](https://sat-io.earthengine.app/view/gba) | Contains modeled building footprints geometries and heights for all buildings in the world. |
+| [California parcel geometries](https://egis-lacounty.hub.arcgis.com/documents/baaf8251bfb94d3984fb58cb5fd93258/about) | Residential parcel geometries for 51 out of 58 California countries. |
+| Zillow, or tax assessor data, provided directly by the client (not currently public). | Contains geographic points of residential buildings in California, and information on whether they are single- or multi- family, home value, etc. (Lots of missing data). |
+| [PG&E ICA data dashboard](https://grip.pge.com/) | Utility (electric grid) data from the Pacific Gas & Electric Company (northern California).
+| [SCE ICA data dashboard](https://drpep.sce.com/drpep/) | Utility (electric grid) data from the Southern California Edison Company. |
+| [SDGE ICA data dashboard](https://interconnectionmapsdge.extweb.sempra.com/) | Utility (electric grid) data from San Diego Gas & Electric |
+| [tidycensus package](https://cran.r-project.org/web/packages/tidycensus/index.html) | American Census Survey data for sociodemographic variables. |
+| [CalEnviroScreen 4.0 ](https://oehha.ca.gov/calenviroscreen/maps-data) | Disadvantaged community classifications in California.|
 
 ## More Resources
 The analysis is part of a capstone project for the [Master of Environmental Data Science program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science & Management. More information on the project can be found on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
