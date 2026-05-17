@@ -45,6 +45,7 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 | [SDGE ICA data dashboard](https://interconnectionmapsdge.extweb.sempra.com/) | Utility (electric grid) data from San Diego Gas & Electric |
 | [tidycensus package](https://cran.r-project.org/web/packages/tidycensus/index.html) | American Census Survey data for sociodemographic variables. |
 | [CalEnviroScreen 4.0 ](https://oehha.ca.gov/calenviroscreen/maps-data) | Disadvantaged community classifications in California.|
+| Projected Electricity Load Data | Projected electricity load data provided by Sanjay Poudel.|
 
 ## More Resources
 The analysis is part of a capstone project for the [Master of Environmental Data Science program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science & Management. More information on the project can be found on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
