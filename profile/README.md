@@ -14,7 +14,7 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 | [building-unit-regression](https://github.com/ElectriGrid/building-unit-regression) | Calculate the housing units for zillow data |
 | [hosting-capacity-calculations](https://github.com/ElectriGrid/hosting-capacity-calculation) |Calculate hosting capacity |
 | [statistics](https://github.com/ElectriGrid/statistics) | Statistical analysis of disadvantaged communities and hosting capacity  |
-|[projected-load-analysis](https://github.com/ElectriGrid/projected-load-analysis)| Analysis between projected electricity load and calculated hosting capacity|
+|[projected-load-analysis](https://github.com/ElectriGrid/projected-load-analysis)| Analysis between projected 2035 electricity load and calculated hosting capacity|
 
 
 ## People
