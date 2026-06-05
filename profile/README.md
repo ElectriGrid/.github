@@ -17,24 +17,6 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 | [statistics](https://github.com/ElectriGrid/statistics) | Statistical analysis of disadvantaged communities and hosting capacity  |
 |[projected-load-analysis](https://github.com/ElectriGrid/projected-load-analysis)| Analysis between projected 2035 electricity load and calculated hosting capacity|
 
-
-## People
-### Authors 
-- [Zach Loo](https://bren.ucsb.edu/people/zach-loo)
-- [Sofia Rodas](https://bren.ucsb.edu/people/sofia-rodas)
-- [Sofia Sarak](https://bren.ucsb.edu/people/sofia-sarak)
-
-### Advisor
-- [Grace Wu](https://bren.ucsb.edu/people/grace-wu)  
-
-### Client
-- [Yohan Min](https://es.ucsb.edu/people/yohan-min)
-
-### Acknowledegments 
-- Capstone Course Instructor: [Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia)
-- Technical Support: [Kat Le](https://bren.ucsb.edu/people/kat-le)
-- California Projected Load Data Provider: [Sanjay Poudel](https://bren.ucsb.edu/people/sanjay-poudel)
-
 ## Data
 
 | Name and Source | Description |
@@ -49,7 +31,26 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 | [CalEnviroScreen 4.0 ](https://oehha.ca.gov/calenviroscreen/maps-data) | Disadvantaged community classifications in California.|
 | Projected Electricity Load Data | Projected electricity load data provided by Sanjay Poudel.|
 
+## People
+### Authors 
+- [Zach Loo](https://bren.ucsb.edu/people/zach-loo)
+- [Sofia Rodas](https://bren.ucsb.edu/people/sofia-rodas)
+- [Sofia Sarak](https://bren.ucsb.edu/people/sofia-sarak)
+
+### Advisor
+- [Grace Wu](https://bren.ucsb.edu/people/grace-wu), Assistant Professor (Environmental Studies Program), UCSB  
+
+### Client
+- [Yohan Min](https://es.ucsb.edu/people/yohan-min), Postdoctoral Research Fellow (Environmental Studies Program), UCSB
+
+### Acknowledegments 
+- Capstone Course Instructor: [Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia)
+- Technical Support: [Kat Le](https://bren.ucsb.edu/people/kat-le)
+- California Projected Load Data: [Sanjay Poudel](https://bren.ucsb.edu/people/sanjay-poudel)
+
 ## More Resources
 The analysis is part of a capstone project for the [Master of Environmental Data Science program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science & Management. More information on the project can be found on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
 
-For information on our Python environment, see the appendix of the Technical Documentation, which can be found on the Bren website (linked above).
+### Reproducibility
+
+For information on our Python environment, see the `electrigrid-env.yml` file in any of the organization's repositories. For more details on our methods, reference the technical documentation linked on our project's page on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
