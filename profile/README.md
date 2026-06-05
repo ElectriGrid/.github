@@ -11,7 +11,7 @@ Distributed energy resources (DER) are small-scale energy generation and storage
 | ----------- | ----------- |
 |[sce_data_gather](https://github.com/ElectriGrid/sce_data_gather)| Query to gather data from SCE's DRPEP ArcGIS FeatureServer |
 | [exploration-and-data-wrangling](https://github.com/ElectriGrid/exploration-and-data-wrangling)| Explore various data sources and clean data|
-| [tidy-census](https://github.com/ElectriGrid/tidycensus)| Acccess census ACS data |
+| [tidy-census](https://github.com/ElectriGrid/tidycensus)| Access census ACS data |
 | [building-unit-regression](https://github.com/ElectriGrid/building-unit-regression) | Calculate the housing units for zillow data |
 | [hosting-capacity-calculations](https://github.com/ElectriGrid/hosting-capacity-calculation) |Calculate hosting capacity |
 | [statistics](https://github.com/ElectriGrid/statistics) | Statistical analysis of disadvantaged communities and hosting capacity  |
